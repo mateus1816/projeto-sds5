@@ -22,7 +22,7 @@ O projeto consiste em desenvolver um dashboard detalhado para analise de desempe
 - Maven
 
 ## Frontend
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / TypeScript
 - ReactJS
 - Apex Charts
 - Expo
