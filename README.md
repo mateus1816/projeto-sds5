@@ -5,7 +5,7 @@
 
 O Dashboard de vendas é um projeto fullstack desenvolvido na 5º edição da semana spring react, evento ministrado pela [DevSuperior](https://devsuperior.com).
 
-O projeto consiste um desenvolver um dashboard detalhado para analise de desempenho de vendas.
+O projeto consiste em desenvolver um dashboard detalhado para analise de desempenho de vendas.
 
 ## Layout inicial
 ![layout 1](https://media.discordapp.net/attachments/910560542756859975/910560640236671048/Captura_de_Tela_2.png?width=902&height=492)
