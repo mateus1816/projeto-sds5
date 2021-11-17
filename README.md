@@ -1,7 +1,7 @@
 # Projeto SDS5 Dashboard de vendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/mateus1816/projeto-sds5/blob/master/LICENSE)
 
-##Sobre o projeto
+## Sobre o projeto
 
 O Dashboard de vendas é um projeto fullstack desenvolvido na 5º edição da semana spring react, evento ministrado pela [DevSuperior](https://devsuperior.com).
 O projeto consiste em desenvolver um dashboard detalhado para analise de desempenho de vendas.
