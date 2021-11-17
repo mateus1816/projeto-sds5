@@ -4,8 +4,12 @@
 ##Sobre o projeto
 
 O Dashboard de vendas é um projeto fullstack desenvolvido na 5º edição da semana spring react, evento ministrado pela [DevSuperior](https://devsuperior.com).
-
 O projeto consiste em desenvolver um dashboard detalhado para analise de desempenho de vendas.
+
+## Link para acesso
+
+OBS* A aplicação pode demorar alguns segundos para iniciar pois esta adormecida no Heroku.
+https://dsvendas-sds5-mateus.netlify.app/
 
 ## Layout inicial
 ![layout 1](https://media.discordapp.net/attachments/910560542756859975/910560640236671048/Captura_de_Tela_2.png?width=902&height=492)
@@ -33,7 +37,9 @@ O projeto consiste em desenvolver um dashboard detalhado para analise de desempe
 - Banco de dados: Postgresql
 
 # Como executar o projeto
+
 ## Back end
+
 Pré-requisitos: Java 11
 
 <pre>
@@ -48,6 +54,7 @@ cd backend
 </pre>
 
 ## Front end
+
 Pré-requisitos: npm / yarn
 
 <pre>
